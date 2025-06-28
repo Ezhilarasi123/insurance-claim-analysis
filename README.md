@@ -18,7 +18,6 @@ This project analyzes insurance claim data to uncover trends, understand custome
 - **Power BI** for visual dashboards
 - **Power Query** for data cleaning
 
----
 
-> 🚀 **Project by:** Ezhilarasi M  
-> Power BI | Insurance Claims Data Analysis
+
+
